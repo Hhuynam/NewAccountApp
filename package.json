@@ -12,7 +12,6 @@
   "description": "",
   "dependencies": {
     "express": "^5.2.1",
-    "sepay-pg-node": "^1.0.0",
-    "sqlite3": "^5.1.7"
+    "sepay-pg-node": "^1.0.0"
   }
 }
